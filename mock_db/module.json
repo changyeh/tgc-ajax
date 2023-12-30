@@ -4,5 +4,11 @@
         "name": "Science",
         "code": "SCI1001",
         "professor_id": "1"
+    },
+    {
+        "_id": 2,
+        "name": "History",
+        "code": "HIS1001",
+        "professor_id": "1"
     }
 ]
